@@ -10,7 +10,7 @@ from src.agent import build_agent
 def main():
     # Step 1: create DB if not exists
     if not os.path.exists("db"):
-        ingest_pdf("data/sample.pdf")
+        ingest_pdf("data/notes.txt")
 
     # Step 2: run agent
     agent = build_agent()
