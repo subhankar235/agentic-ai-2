@@ -1,0 +1,12 @@
+exclude:
+  - "**/__pycache__"
+  - "**/venv"
+
+typeCheckingMode: "basic"
+
+pythonVersion: "3.13"
+
+venvPath: "C:/Users/subhankar nath/Desktop/agentic_ai-advance/ai-agent/rag-pdf-agent/venv"
+
+extraPaths:
+  - "C:/Users/subhankar nath/Desktop/agentic_ai-advance/ai-agent/rag-pdf-agent/venv/Lib/site-packages"
