@@ -1,0 +1,152 @@
+My Personal Knowledge Base
+
+About Me:
+My name is Subhankar Nath. I am a B.Tech student currently in my second year. My goal is to achieve a high-paying software job by the end of my fourth year. I aim to become a strong full stack developer and also build AI-powered applications.
+
+My Goals:
+
+* Crack a high-paying job (target: ₹1 crore package)
+* Become strong in Data Structures and Algorithms
+* Build real-world full stack projects
+* Learn and implement AI and Generative AI systems
+* Become financially independent and support my family
+
+My Current Challenges:
+
+* Overthinking decisions (especially gym vs career)
+* Time management issues
+* Financial limitations
+* Balancing college academics with skill development
+
+My Priorities:
+
+1. Career growth and skill development
+2. Supporting my family
+3. Becoming financially independent
+4. Maintaining good health and fitness
+
+Important Rule:
+I will build my lifestyle using my own money, not my parents’ money.
+
+Study Plan:
+
+Data Structures and Algorithms (DSA):
+Goal: Solve 400+ problems
+
+Topics:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack and Queue
+* Trees
+* Graphs
+* Dynamic Programming
+
+Platforms:
+
+* LeetCode
+* GeeksforGeeks
+
+Web Development:
+
+Frontend:
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+Backend:
+
+* Node.js
+* Express
+* FastAPI
+
+Goal:
+
+* Build and deploy full stack applications
+* Learn real-world development practices
+
+AI and Generative AI:
+
+Topics:
+
+* Machine Learning basics
+* Neural Networks
+* Large Language Models
+* LangChain
+* Vector Databases
+
+Projects:
+
+* PDF-based AI assistant
+* AI agent systems
+* Personal AI assistant
+
+Fitness Plan:
+
+Current Strategy:
+
+* Focus on home workout
+* Avoid heavy spending
+
+Reason:
+I want to invest in gym and diet only after I start earning.
+
+Routine:
+
+* 4 days home workout per week
+* Basic home diet
+
+Future Plan:
+
+* Join gym using self-earned money
+* Maintain a disciplined fitness routine
+
+Financial Thinking:
+
+If I earn money (₹10k–₹15k/month):
+
+Priority Order:
+
+1. Help my family
+2. Reduce my mother’s burden
+3. Save money
+4. Invest in gym and lifestyle
+
+Rule:
+Responsibility comes before comfort.
+
+Daily Routine:
+
+* Wake up early
+* Study DSA
+* Work on projects
+* Attend college classes
+* Practice coding
+* Workout
+* Revise concepts
+
+Mindset Rules:
+
+* Avoid overthinking
+* Focus on long-term goals
+* Take small consistent steps
+* Consistency is more important than perfection
+* Earn first, upgrade lifestyle later
+
+Vision:
+
+By the end of my fourth year:
+
+* Strong in DSA
+* Multiple real-world projects completed
+* Internship experience gained
+* Ready for high-paying job opportunities
+
+Long-term Vision:
+
+* Become financially independent
+* Build impactful AI products
+* Fully support my family
