@@ -1,0 +1,11 @@
+{
+    "executionEnvironments": [
+        {
+            "root": "${workspaceFolder}"
+        }
+    ],
+    "extraPaths": [
+        "${workspaceFolder}/venv/Lib/site-packages"
+    ],
+    "pythonVersion": "3.13"
+}
